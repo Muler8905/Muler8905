@@ -4,7 +4,7 @@
 ---
 
 
-Hey there 👋, I'm Muluken Ugamo, a passionate frontend developer based in Dire Dawa. I love coding and building exciting web projects. 
+Hey there 👋, I'm Muluken Ugamo, a passionate frontend developer. I love coding and building exciting web projects. 
 
 ### GitHub Activity Overview
 - 🌟 **10** Public Repositories
