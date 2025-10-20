@@ -16,9 +16,16 @@ Hey there 👋, I'm Muluken Ugamo, a passionate frontend developer based in Dire
 ### Skills & Expertise
 - HTML
 - CSS
+- tailwind
+- Modular css
 - JavaScript
 - Java
+- React
+- Figma
 - UI/UX Design
+- c++
+- MySQL
+- 
 
 ### Portfolio Projects
 - [Muler890](https://github.com/Muler8905/Muler890) - A standout repository
@@ -28,8 +35,7 @@ Hey there 👋, I'm Muluken Ugamo, a passionate frontend developer based in Dire
 ### Let's Connect!
 - [GitHub](https://github.com/Muler8905)
 - LinkedIn
-- Email: muler890@gmail.com
-
+- Email: mulukenugamo7@gmail.com
 
 ### GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Muler8905)
@@ -47,4 +53,4 @@ Hey there 👋, I'm Muluken Ugamo, a passionate frontend developer based in Dire
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Guru-yellow)
 - ![Java](https://img.shields.io/badge/Java-Expert-red)
 
-#### Thanks for stopping by! Feel free to explore my repositories and reach out for collaboration.
+####Let's connect, w'll make a difference!!
