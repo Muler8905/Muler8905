@@ -1,4 +1,3 @@
-# Muluken Ugamo
 
 ### Frontend Developer | Dire Dawa
 ---
@@ -9,13 +8,11 @@ Hey there 👋, I'm Muluken Ugamo, a passionate frontend developer. I love codin
 ### GitHub Activity Overview
 - 🌟 **10** Public Repositories
 - 💼 **Frontend Developer** in the making
-- 🛠️ **6** Commits
-- 🚀 **Focused** on HTML, CSS, JavaScript, and Java
+-
+- 🚀 My personal portfolio website https://muler8905.github.io/muluken-portfolio-dev/
 - ✔️ **Active** contributor to web and software projects
 
 ### Skills & Expertise
-- HTML
-- CSS
 - tailwind
 - Modular css
 - JavaScript
