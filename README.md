@@ -9,7 +9,7 @@ Hey there 👋, I'm Muluken Ugamo, a passionate frontend developer. I love codin
 - 🌟 **10** Public Repositories
 - 💼 **Frontend Developer** in the making
 -
-- 🚀 My personal portfolio website https://muler8905.github.io/muluken-portfolio-dev/
+- 🚀 My personal portfolio website https://muler8905.github.io/MyPortfolio.dev/
 - ✔️ **Active** contributor to web and software projects
 
 ### Skills & Expertise
