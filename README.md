@@ -1,53 +1,118 @@
+-# 👋 Hi, I'm Muluken Ugamo  
 
-### Frontend Developer | Dire Dawa
+🚀 **Full Stack Web & Mobile Developer** | React • Backend • System Design  
+🎓 Software Engineering Student | 🌍 Ethiopia  
+
+I am a **hands-on Full Stack Developer** with strong practical experience in building **modern, scalable, and secure web & mobile applications**. I specialize in **React-based frontends**, **robust backend APIs**, and **well-structured databases**, with a strong focus on clean code, performance, and real-world problem solving.
+
 ---
 
+## 🧠 Professional Summary (Recruiter-Friendly)
 
-Hey there 👋, I'm Muluken Ugamo, a passionate frontend developer. I love coding and building exciting web projects. 
+- ✅ Hands-on experience across **Frontend, Backend & Mobile Development**
+- ✅ Strong foundation in **System Design, Databases, and Networking**
+- ✅ Experience building **real-world applications**, not just tutorials
+- ✅ Passionate about **scalable systems, security, and maintainability**
+- ✅ Comfortable working independently or in team-based environments
 
-### GitHub Activity Overview
-- 🌟 **10** Public Repositories
-- 💼 **Frontend Developer** in the making
--
-- 🚀 My personal portfolio website https://muler8905.github.io/MyPortfolio.dev/
-- ✔️ **Active** contributor to web and software projects
+---
 
-### Skills & Expertise
-- tailwind
-- Modular css
-- JavaScript
-- Java
-- React
-- Figma
-- UI/UX Design
-- c++
-- MySQL
-- 
+## 🔥 Core Focus Areas
 
-### Portfolio Projects
-- [Muler890](https://github.com/Muler8905/Muler890) - A standout repository
-- [Portfolio Website](https://github.com/Muler8905/Portfolio-Website)
-- [Library Management System](https://github.com/Muler8905/Library_Management_System)
+### ⚛️ React & Frontend Development
+- React.js & React Native
+- Modern JavaScript (ES6+)
+- Tailwind CSS, Bootstrap
+- Responsive & Mobile-First Design
+- UI/UX best practices
 
-### Let's Connect!
-- [GitHub](https://github.com/Muler8905)
-- LinkedIn
-- Email: mulukenugamo7@gmail.com
+### ⚙️ Backend & API Development
+- Node.js & Express.js
+- RESTful API Design
+- Authentication: JWT, OAuth
+- Role-Based Access Control
+- API Security & Validation
 
-### GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Muler8905)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muler8905)
+### 📱 Mobile App Development
+- React Native
+- Cross-platform (Android-focused)
+- API integration
+- Performance optimization
 
-### Trophy Collection
-[![trophy](https://github-profile-trophy.vercel.app/?username=Muler8905)](https://github.com/Muler8905)
+---
 
-### GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Muler8905)](https://git.io/streak-stats)
+## 🧰 Complete Tech Stack
 
-### Badges
-- ![Html](https://img.shields.io/badge/HTML-Expert-orange)
-- ![CSS](https://img.shields.io/badge/CSS-Ninja-blue)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Guru-yellow)
-- ![Java](https://img.shields.io/badge/Java-Expert-red)
+### 🌐 Frontend
+- HTML5, CSS3, JavaScript
+- React.js, React Native
+- Tailwind CSS, Bootstrap
 
-####Let's connect, w'll make a difference!!
+### ⚙️ Backend
+- Node.js, Express.js
+- REST APIs
+- Authentication & Authorization
+
+### 🗄️ Databases
+- MySQL / PostgreSQL
+- MongoDB
+- Database Normalization
+- Transactions & Distributed Databases
+
+### ☁️ DevOps & Tools
+- Git & GitHub
+- Docker (Fundamentals)
+- CI/CD Concepts
+- Linux Command Line
+
+### 🔐 Security & Performance
+- Secure Authentication
+- API Rate Limiting
+- Caching Strategies
+- Input Validation
+
+---
+
+## 🧩 Featured Projects
+
+🚗 **Car Shopping Web Platform**  
+A full-featured platform for browsing, comparing, and managing vehicle listings.
+
+📚 **E-Learning Management System**  
+Role-based learning platform with courses, progress tracking, and secure access.
+
+🛠️ **Hand Man Mobile App**  
+React Native app connecting users with skilled technicians (electricians, mechanics, etc.).
+
+🔐 **Smart Biometric Authentication System**  
+Fingerprint & face recognition-based access system with voice-guided interaction.
+
+👉 *Explore my repositories for source code and implementations.*
+
+---
+
+## 📊 GitHub Stats & Badges
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social)
+
+---
+
+## 📈 Currently Learning
+- Advanced System Design
+- Microservices Architecture
+- Kubernetes & Cloud Deployment
+- Scalable & Distributed Systems
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: mulukenugamo7@gmail.com 
+- 🌐 Portfolio: - 🚀 My personal portfolio website https://muler8905.github.io/MyPortfolio.dev/
+
+⭐ *If you like my work, feel free to star my repositories!*  
