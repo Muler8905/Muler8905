@@ -1,4 +1,4 @@
--# 👋 Hi, I'm Muluken Ugamo  
+👋 Hi, I'm Muluken Ugamo  
 
 🚀 **Full Stack Web & Mobile Developer** | React • Backend • System Design  
 🎓 Software Engineering Student | 🌍 Ethiopia  
@@ -90,17 +90,6 @@ Fingerprint & face recognition-based access system with voice-guided interaction
 👉 *Explore my repositories for source code and implementations.*
 
 ---
-
-## 📊 GitHub Stats & Badges
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social)
-
----
-
 ## 📈 Currently Learning
 - Advanced System Design
 - Microservices Architecture
@@ -111,7 +100,7 @@ Fingerprint & face recognition-based access system with voice-guided interaction
 
 ## 🤝 Let’s Connect
 
-- 💼 GitHub: https://github.com/YOUR_USERNAME  
+- 💼 GitHub: https://github.com/Muler8905
 - 📧 Email: mulukenugamo7@gmail.com 
 - 🌐 Portfolio: - 🚀 My personal portfolio website https://muler8905.github.io/MyPortfolio.dev/
 
