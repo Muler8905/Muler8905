@@ -9,11 +9,11 @@ I am a **hands-on Full Stack Developer** with strong practical experience in bui
 
 ## 🧠 Professional Summary (Recruiter-Friendly)
 
-- ✅ Hands-on experience across **Frontend, Backend & Mobile Development**
-- ✅ Strong foundation in **System Design, Databases, and Networking**
-- ✅ Experience building **real-world applications**, not just tutorials
-- ✅ Passionate about **scalable systems, security, and maintainability**
-- ✅ Comfortable working independently or in team-based environments
+-  Hands-on experience across **Frontend, Backend & Mobile Development**
+-  Strong foundation in **System Design, Databases, and Networking**
+-  Experience building **real-world applications**, not just tutorials
+-  Passionate about **scalable systems, security, and maintainability**
+-  Comfortable working independently or in team-based environments
 
 ---
 
