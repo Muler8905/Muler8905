@@ -1,19 +1,22 @@
-<!-- 🚀 Floating Neon Banner -->
+<!-- 🌌 Animated Neon Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muluken%20Ugamo%20.dev&fontSize=40&fontColor=00F5FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Muluken%20Ugamo&fontSize=42&fontColor=00F5FF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h3 align="center">🚀 Full Stack Web & Mobile Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F5FF&lines=Full+Stack+Developer;React+%7C+Backend+%7C+Mobile+Apps;System+Design+Enthusiast;Building+Scalable+Applications&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Backend+%7C+Mobile+Apps;System+Design+Enthusiast;Building+Scalable+Solutions"/>
 </p>
 
 ---
 
-### 🌍 About Me
-Passionate Full Stack Developer building scalable web and mobile applications using modern technologies. Strong interest in system design, cloud architecture, and secure software development. Focused on creating practical solutions with clean and maintainable code.
+## 🌍 About Me
+Motivated Software Engineering student and Full Stack Developer with hands-on experience building real-world web and mobile applications. Passionate about scalable architecture, secure backend systems, and clean maintainable code. Eager to contribute, collaborate, and grow in professional development environments.
+
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750180-5b0b6c5e-7a09-4b7e-bf1b-2e4a77c18b12.gif" width="100%">
 
 ## 🚀 Tech Stack
 
@@ -35,8 +38,8 @@ Passionate Full Stack Developer building scalable web and mobile applications us
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F5FF)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F5FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F5FF)
 
 ---
 
@@ -47,6 +50,8 @@ Passionate Full Stack Developer building scalable web and mobile applications us
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00F5FF)
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/216655846-79bce9a0-6c13-4d15-90b8-1eaa42c19f1f.gif" width="100%">
 
 ## 🧩 Featured Projects
 🚗 Car Shopping Web Platform  
@@ -72,12 +77,7 @@ Passionate Full Stack Developer building scalable web and mobile applications us
 
 ---
 
-## 👀 Profile Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muler8905&color=00F5FF"/>
-</p>
 
----
 
 ## 🤝 Let’s Connect
 - 💼 GitHub: https://github.com/Muler8905  
@@ -86,9 +86,9 @@ Passionate Full Stack Developer building scalable web and mobile applications us
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+⭐ If you like my work, consider starring my repositories!
 
-<!-- Footer Neon Wave -->
+<!-- 🌊 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
