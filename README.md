@@ -1,100 +1,93 @@
-👋 Hi, I'm Muluken Ugamo  
+<!-- Animated Intro -->
+<h1 align="center">Hi 👋, I'm Muluken Ugamo</h1>
+<h3 align="center">🚀 Full Stack Web & Mobile Developer</h3>
 
-🚀 **Full Stack Web & Mobile Developer** | React • Backend • System Design  
-🎓 Software Engineering Student | 🌍 Ethiopia  
-
-I am a **hands-on Full Stack Developer** with strong practical experience in building **modern, scalable, and secure web & mobile applications**. I specialize in **React-based frontends**, **robust backend APIs**, and **well-structured databases**, with a strong focus on clean code, performance, and real-world problem solving.
-
----
-
-## 🧠 Professional Summary (Recruiter-Friendly)
-
--  Hands-on experience across **Frontend, Backend & Mobile Development**
--  Strong foundation in **System Design, Databases, and Networking**
--  Experience building **real-world applications**, not just tutorials
--  Passionate about **scalable systems, security, and maintainability**
--  Comfortable working independently or in team-based environments
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Backend+%7C+Mobile+Apps;System+Design+Enthusiast;Building+Scalable+Applications&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🔥 Core Focus Areas
-
-### ⚛️ React & Frontend Development
-- React.js & React Native
-- Modern JavaScript (ES6+)
-- Tailwind CSS, Bootstrap
-- Responsive & Mobile-First Design
-- UI/UX best practices
-
-### ⚙️ Backend & API Development
-- Node.js & Express.js
-- RESTful API Design
-- Authentication: JWT, OAuth
-- Role-Based Access Control
-- API Security & Validation
-
-### 📱 Mobile App Development
-- React Native
-- Cross-platform (Android-focused)
-- API integration
-- Performance optimization
+### 🌍 About Me
+- 🎓 Software Engineering Student  
+- 💻 Building scalable Web & Mobile Applications  
+- 🧠 Interested in System Design & Cloud Architecture  
+- 🔐 Passionate about Secure & Maintainable Software  
+- 🌱 Currently learning **Microservices & Kubernetes**
 
 ---
 
-## 🧰 Complete Tech Stack
+### 🚀 Tech Stack
 
-### 🌐 Frontend
-- HTML5, CSS3, JavaScript
-- React.js, React Native
-- Tailwind CSS, Bootstrap
-
-### ⚙️ Backend
-- Node.js, Express.js
-- REST APIs
-- Authentication & Authorization
-
-### 🗄️ Databases
-- MySQL / PostgreSQL
-- MongoDB
-- Database Normalization
-- Transactions & Distributed Databases
-
-### ☁️ DevOps & Tools
-- Git & GitHub
-- Docker (Fundamentals)
-- CI/CD Concepts
-- Linux Command Line
-
-### 🔐 Security & Performance
-- Secure Authentication
-- API Rate Limiting
-- Caching Strategies
-- Input Validation
+#### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css)
 
 ---
 
-## 🧩 Featured Projects
-
-🚗 **Car Shopping Web Platform**  
-A full-featured platform for browsing, comparing, and managing vehicle listings.
-
-📚 **E-Learning Management System**  
-Role-based learning platform with courses, progress tracking, and secure access.
-
-🛠️ **Hand Man Mobile App**  
-React Native app connecting users with skilled technicians (electricians, mechanics, etc.).
-
-🔐 **Smart Biometric Authentication System**  
-Fingerprint & face recognition-based access system with voice-guided interaction.
-
-👉 *Explore my repositories for source code and implementations.*
+#### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
 
 ---
-## 📈 Currently Learning
-- Advanced System Design
-- Microservices Architecture
-- Kubernetes & Cloud Deployment
-- Scalable & Distributed Systems
+
+#### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+---
+
+#### ☁️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+
+---
+
+### 🧩 Featured Projects
+🚗 Car Shopping Web Platform  
+📚 E-Learning Management System  
+🛠️ Skilled Technician Marketplace App  
+🔐 Smart Biometric Authentication System  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+⭐ *"Building practical solutions through clean, scalable, and impactful software."*
 
 ---
 
