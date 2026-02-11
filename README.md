@@ -1,6 +1,6 @@
 <!-- 🚀 Floating Neon Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muluken%20Ugamo&fontSize=40&fontColor=00F5FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muluken%20Ugamo%20.dev&fontSize=40&fontColor=00F5FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h3 align="center">🚀 Full Stack Web & Mobile Developer</h3>
@@ -12,12 +12,7 @@
 ---
 
 ### 🌍 About Me
-- 🎓 Software Engineering Student  
-- 💻 Building scalable Web & Mobile Applications  
-- 🧠 Interested in System Design & Cloud Architecture  
-- 🔐 Passionate about Secure & Maintainable Software  
-- 🌱 Currently learning **Microservices & Kubernetes**
-
+Passionate Full Stack Developer building scalable web and mobile applications using modern technologies. Strong interest in system design, cloud architecture, and secure software development. Focused on creating practical solutions with clean and maintainable code.
 ---
 
 ## 🚀 Tech Stack
