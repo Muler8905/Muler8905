@@ -78,7 +78,7 @@ Motivated Software Engineering student and Full Stack Developer with hands-on ex
 ## 🤝 Let’s Connect
 - 💼 GitHub: https://github.com/Muler8905  
 - 📧 Email: mulukenugamo7@gmail.com  
-- 🌐 Portfolio: [https://muler8905.github.io/MyPortfolio.dev/](https://my-portfolio-dev-by6o.vercel.app/)
+- 🌐 Portfolio: https://my-portfolio-dev-by6o.vercel.app/
 
 ---
 
